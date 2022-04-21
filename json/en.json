@@ -2095,8 +2095,8 @@
                                     "visible": true,
                                     "text": "
 
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
+                                    <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
                                     <br><br>
 
                                    <img src='json/n/111.png'>
@@ -2120,7 +2120,17 @@
                                    <br><br>
 				    <br><br>
 
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
                                    <br><br>
                                    <img src='json/p/1.jpg'>
                                    <br><br>
@@ -2143,7 +2153,8 @@
                                    <img src='json/p/10.jpg'>
                                     <br><br>
 					<br><br>
-				<h1 class='nymZag'>И забрал посылку.</h1>
+				<h1 class='nymZag'>Забрал посылку Виктор.</h1>
+					
 					
 				<br><br>
 
@@ -2199,7 +2210,7 @@
                                 "visible": true,
                                 "name": {
                                     "visible": true,
-                                    "first": "Олег",
+                                    "first": "Артур",
                                     "last": "",
                                     "css": [
                                         {
@@ -2245,8 +2256,8 @@
                                     "visible": true,
                                     "text": "
 
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
+                                    <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
                                     <br><br>
 
                                    <img src='json/n/111.png'>
@@ -2268,9 +2279,19 @@
                                    <img src='json/n/22.png'>
                                    <img src='json/n/44.png'>
                                    <br><br>
-					                                   <br><br>
+				    <br><br>
 
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
                                    <br><br>
                                    <img src='json/p/1.jpg'>
                                    <br><br>
@@ -2291,9 +2312,12 @@
                                    <img src='json/p/9.jpg'>
                                    <br><br>
                                    <img src='json/p/10.jpg'>
-                                   <br><br>
-									<h1 class='nymZag'>И забрал посылку.</h1>
-
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Артур.</h1>
+					
+					
+				<br><br>
 
 
 
@@ -2329,6 +2353,162 @@
                
                     "ransom": {
                         "lut": "ransom",
+                        "name": {
+                            "text": "",
+                            "css": [
+                                {
+                                    "property": "font-size",
+                                    "value": false
+                                }
+                            ]
+                        },
+                        "nodes": [
+                            {
+                                "type": "poster",
+                                "visible": true,
+                                "name": {
+                                    "visible": true,
+                                    "first": "Роман",
+                                    "last": "",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "role": {
+                                    "visible": true,
+                                    "text": "
+                                                               
+                                   
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+
+                                },
+                                
+                                
+                                "poster": {
+                                    "visible": true,
+                                    "full_size": "linda",
+                                    "url": "assets/characters/benoit/poster.png"
+                                },
+                                "icon": {
+                                    "visible": true,
+                                    "url": "assets/characters/1.png"
+                                }
+                            },
+                            
+                            
+                            
+                            
+                            {
+                                "type": "quote",
+                                "visible": true,
+                                "quote": {
+                                    "visible": true,
+                                    "text": "
+
+                                     <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
+                                    <br><br>
+
+                                   <img src='json/n/111.png'>
+                                   <img src='json/n/222.png'>
+                                   <img src='json/n/3333.png'>
+                                   <img src='json/n/333.png'>
+                                   <img src='json/n/444.png'>
+                                   <img src='json/n/555.png'>
+                                   <img src='json/n/666.png'>
+                                   <img src='json/n/777.png'>
+                                   <img src='json/n/13.png'>   
+                                   <img src='json/n/d0.png'>
+                                   <img src='json/n/d01.png'>
+                                   <img src='json/n/d001.png'>
+                                   <img src='json/n/d1.png'>
+                                   <img src='json/n/11.png'>
+                                   <img src='json/n/55.png'>
+                                   <img src='json/n/12.png'>
+                                   <img src='json/n/22.png'>
+                                   <img src='json/n/44.png'>
+                                   <br><br>
+				    <br><br>
+
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
+                                   <br><br>
+                                   <img src='json/p/1.jpg'>
+                                   <br><br>
+                                   <img src='json/p/2.jpg'>
+                                   <br><br>
+                                   <img src='json/p/3.jpg'>
+                                   <br><br>
+                                   <img src='json/p/4.jpg'>
+                                   <br><br>
+                                   <img src='json/p/5.jpg'>
+                                   <br><br>
+                                   <img src='json/p/6.jpg'>
+                                   <br><br>
+                                   <img src='json/p/7.jpg'>
+                                   <br><br>
+                                   <img src='json/p/8.jpg'>
+                                   <br><br>
+                                   <img src='json/p/9.jpg'>
+                                   <br><br>
+                                   <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Роман.</h1>
+					
+					
+				<br><br>
+
+
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "quoter": {
+                                    "visible": false,
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "type": "gif",
+                                "align": "left",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            },
+                            {
+                                "type": "gif",
+                                "align": "right",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            }
+                        ]       
+                    },
+                    "richard": {
+                        "lut": "richard",
                         "name": {
                             "text": "",
                             "css": [
@@ -2390,8 +2570,8 @@
                                     "visible": true,
                                     "text": "
 
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
+                                    <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
                                     <br><br>
 
                                    <img src='json/n/111.png'>
@@ -2412,9 +2592,20 @@
                                    <img src='json/n/12.png'>
                                    <img src='json/n/22.png'>
                                    <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
+                                   <br><br>
+				    <br><br>
 
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
                                    <br><br>
                                    <img src='json/p/1.jpg'>
                                    <br><br>
@@ -2435,151 +2626,12 @@
                                    <img src='json/p/9.jpg'>
                                    <br><br>
                                    <img src='json/p/10.jpg'>
-                                   <br><br>
-					<h1 class='nymZag'>И забрал посылку.</h1>
-
-
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "quoter": {
-                                    "visible": false,
-                                    "text": ""
-                                }
-                            },
-                            {
-                                "type": "gif",
-                                "align": "left",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            },
-                            {
-                                "type": "gif",
-                                "align": "right",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            }
-                        ]       
-                    },
-                    "richard": {
-                        "lut": "richard",
-                        "name": {
-                            "text": "",
-                            "css": [
-                                {
-                                    "property": "font-size",
-                                    "value": false
-                                }
-                            ]
-                        },
-                        "nodes": [
-                            {
-                                "type": "poster",
-                                "visible": true,
-                                "name": {
-                                    "visible": true,
-                                    "first": "Антон",
-                                    "last": "",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "role": {
-                                    "visible": true,
-                                    "text": "
-                                                               
-                                   
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-
-                                },
-                                
-                                
-                                "poster": {
-                                    "visible": true,
-                                    "full_size": "linda",
-                                    "url": "assets/characters/benoit/poster.png"
-                                },
-                                "icon": {
-                                    "visible": true,
-                                    "url": "assets/characters/1.png"
-                                }
-                            },
-                            
-                            
-                            
-                            
-                            {
-                                "type": "quote",
-                                "visible": true,
-                                "quote": {
-                                    "visible": true,
-                                    "text": "
-
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
                                     <br><br>
-
-                                   <img src='json/n/111.png'>
-                                   <img src='json/n/222.png'>
-                                   <img src='json/n/3333.png'>
-                                   <img src='json/n/333.png'>
-                                   <img src='json/n/444.png'>
-                                   <img src='json/n/555.png'>
-                                   <img src='json/n/666.png'>
-                                   <img src='json/n/777.png'>
-                                   <img src='json/n/13.png'>   
-                                   <img src='json/n/d0.png'>
-                                   <img src='json/n/d01.png'>
-                                   <img src='json/n/d001.png'>
-                                   <img src='json/n/d1.png'>
-                                   <img src='json/n/11.png'>
-                                   <img src='json/n/55.png'>
-                                   <img src='json/n/12.png'>
-                                   <img src='json/n/22.png'>
-                                   <img src='json/n/44.png'>
-                                                                     <br><br>
-                                 <br><br>
-
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
-                                   <br><br>
-                                   <img src='json/p/1.jpg'>
-                                   <br><br>
-                                   <img src='json/p/2.jpg'>
-                                   <br><br>
-                                   <img src='json/p/3.jpg'>
-                                   <br><br>
-                                   <img src='json/p/4.jpg'>
-                                   <br><br>
-                                   <img src='json/p/5.jpg'>
-                                   <br><br>
-                                   <img src='json/p/6.jpg'>
-                                   <br><br>
-                                   <img src='json/p/7.jpg'>
-                                   <br><br>
-                                   <img src='json/p/8.jpg'>
-                                   <br><br>
-                                   <img src='json/p/9.jpg'>
-                                   <br><br>
-                                   <img src='json/p/10.jpg'>
-                                   <br><br>
-    
-					<h1 class='nymZag'>И забрал посылку.</h1>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Динар.</h1>
+					
+					
+				<br><br>
 
 
                                     ",
@@ -2613,574 +2665,6 @@
                     },
                     "joni": {
                         "lut": "richard",
-                        "name": {
-                            "text": "",
-                            "css": [
-                                {
-                                    "property": "font-size",
-                                    "value": false
-                                }
-                            ]
-                        },
-                        "nodes": [
-                            {
-                                "type": "poster",
-                                "visible": true,
-                                "name": {
-                                    "visible": true,
-                                    "first": "Самвел",
-                                    "last": "",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "role": {
-                                    "visible": true,
-                                    "text": "
-                                                               
-                                   
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-
-                                },
-                                
-                                
-                                "poster": {
-                                    "visible": true,
-                                    "full_size": "linda",
-                                    "url": "assets/characters/benoit/poster.png"
-                                },
-                                "icon": {
-                                    "visible": true,
-                                    "url": "assets/characters/1.png"
-                                }
-                            },
-                            
-                            
-                            
-                            
-                            {
-                                "type": "quote",
-                                "visible": true,
-                                "quote": {
-                                    "visible": true,
-                                    "text": "
-
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
-                                    <br><br>
-
-                                   <img src='json/n/111.png'>
-                                   <img src='json/n/222.png'>
-                                   <img src='json/n/3333.png'>
-                                   <img src='json/n/333.png'>
-                                   <img src='json/n/444.png'>
-                                   <img src='json/n/555.png'>
-                                   <img src='json/n/666.png'>
-                                   <img src='json/n/777.png'>
-                                   <img src='json/n/13.png'>   
-                                   <img src='json/n/d0.png'>
-                                   <img src='json/n/d01.png'>
-                                   <img src='json/n/d001.png'>
-                                   <img src='json/n/d1.png'>
-                                   <img src='json/n/11.png'>
-                                   <img src='json/n/55.png'>
-                                   <img src='json/n/12.png'>
-                                   <img src='json/n/22.png'>
-                                   <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
-
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
-                                   <br><br>
-                                   <img src='json/p/1.jpg'>
-                                   <br><br>
-                                   <img src='json/p/2.jpg'>
-                                   <br><br>
-                                   <img src='json/p/3.jpg'>
-                                   <br><br>
-                                   <img src='json/p/4.jpg'>
-                                   <br><br>
-                                   <img src='json/p/5.jpg'>
-                                   <br><br>
-                                   <img src='json/p/6.jpg'>
-                                   <br><br>
-                                   <img src='json/p/7.jpg'>
-                                   <br><br>
-                                   <img src='json/p/8.jpg'>
-                                   <br><br>
-                                   <img src='json/p/9.jpg'>
-                                   <br><br>
-                                   <img src='json/p/10.jpg'>
-                                   <br><br>
-					<h1 class='nymZag'>И забрал посылку.</h1>
-
-
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "quoter": {
-                                    "visible": false,
-                                    "text": ""
-                                }
-                            },
-                            {
-                                "type": "gif",
-                                "align": "left",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            },
-                            {
-                                "type": "gif",
-                                "align": "right",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            }
-                        ]        
-                    },
-                    "meg": {
-                        "lut": "meg",
-                        "name": {
-                            "text": "",
-                            "css": [
-                                {
-                                    "property": "font-size",
-                                    "value": false
-                                }
-                            ]
-                        },
-                        "nodes": [
-                            {
-                                "type": "poster",
-                                "visible": true,
-                                "name": {
-                                    "visible": true,
-                                    "first": "Вадим",
-                                    "last": "",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "role": {
-                                    "visible": true,
-                                    "text": "
-                                                               
-                                   
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-
-                                },
-                                
-                                
-                                "poster": {
-                                    "visible": true,
-                                    "full_size": "linda",
-                                    "url": "assets/characters/benoit/poster.png"
-                                },
-                                "icon": {
-                                    "visible": true,
-                                    "url": "assets/characters/1.png"
-                                }
-                            },
-                            
-                            
-                            
-                            
-                            {
-                                "type": "quote",
-                                "visible": true,
-                                "quote": {
-                                    "visible": true,
-                                    "text": "
-
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
-                                    <br><br>
-
-                                   <img src='json/n/111.png'>
-                                   <img src='json/n/222.png'>
-                                   <img src='json/n/3333.png'>
-                                   <img src='json/n/333.png'>
-                                   <img src='json/n/444.png'>
-                                   <img src='json/n/555.png'>
-                                   <img src='json/n/666.png'>
-                                   <img src='json/n/777.png'>
-                                   <img src='json/n/13.png'>   
-                                   <img src='json/n/d0.png'>
-                                   <img src='json/n/d01.png'>
-                                   <img src='json/n/d001.png'>
-                                   <img src='json/n/d1.png'>
-                                   <img src='json/n/11.png'>
-                                   <img src='json/n/55.png'>
-                                   <img src='json/n/12.png'>
-                                   <img src='json/n/22.png'>
-                                   <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
-
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
-                                   <br><br>
-                                   <img src='json/p/1.jpg'>
-                                   <br><br>
-                                   <img src='json/p/2.jpg'>
-                                   <br><br>
-                                   <img src='json/p/3.jpg'>
-                                   <br><br>
-                                   <img src='json/p/4.jpg'>
-                                   <br><br>
-                                   <img src='json/p/5.jpg'>
-                                   <br><br>
-                                   <img src='json/p/6.jpg'>
-                                   <br><br>
-                                   <img src='json/p/7.jpg'>
-                                   <br><br>
-                                   <img src='json/p/8.jpg'>
-                                   <br><br>
-                                   <img src='json/p/9.jpg'>
-                                   <br><br>
-                                   <img src='json/p/10.jpg'>
-                                   <br><br>
-
-					<h1 class='nymZag'>И забрал посылку.</h1>
-
-
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "quoter": {
-                                    "visible": false,
-                                    "text": ""
-                                }
-                            },
-                            {
-                                "type": "gif",
-                                "align": "left",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            },
-                            {
-                                "type": "gif",
-                                "align": "right",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            }
-                        ]           
-                    },
-
-
-                    "donna": {
-                        "lut": "walt_donna",
-                        "name": {
-                            "text": "",
-                            "css": [
-                                {
-                                    "property": "font-size",
-                                    "value": false
-                                }
-                            ]
-                        },
-                        "nodes": [
-                            {
-                                "type": "poster",
-                                "visible": true,
-                                "name": {
-                                    "visible": true,
-                                    "first": "Янис",
-                                    "last": "",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "role": {
-                                    "visible": true,
-                                    "text": "
-                                                               
-                                   
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-
-                                },
-                                
-                                
-                                "poster": {
-                                    "visible": true,
-                                    "full_size": "linda",
-                                    "url": "assets/characters/benoit/poster.png"
-                                },
-                                "icon": {
-                                    "visible": true,
-                                    "url": "assets/characters/1.png"
-                                }
-                            },
-                            
-                            
-                            
-                            
-                            {
-                                "type": "quote",
-                                "visible": true,
-                                "quote": {
-                                    "visible": true,
-                                    "text": "
-
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
-                                    <br><br>
-
-                                   <img src='json/n/111.png'>
-                                   <img src='json/n/222.png'>
-                                   <img src='json/n/3333.png'>
-                                   <img src='json/n/333.png'>
-                                   <img src='json/n/444.png'>
-                                   <img src='json/n/555.png'>
-                                   <img src='json/n/666.png'>
-                                   <img src='json/n/777.png'>
-                                   <img src='json/n/13.png'>   
-                                   <img src='json/n/d0.png'>
-                                   <img src='json/n/d01.png'>
-                                   <img src='json/n/d001.png'>
-                                   <img src='json/n/d1.png'>
-                                   <img src='json/n/11.png'>
-                                   <img src='json/n/55.png'>
-                                   <img src='json/n/12.png'>
-                                   <img src='json/n/22.png'>
-                                   <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
-
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
-                                   <br><br>
-                                   <img src='json/p/1.jpg'>
-                                   <br><br>
-                                   <img src='json/p/2.jpg'>
-                                   <br><br>
-                                   <img src='json/p/3.jpg'>
-                                   <br><br>
-                                   <img src='json/p/4.jpg'>
-                                   <br><br>
-                                   <img src='json/p/5.jpg'>
-                                   <br><br>
-                                   <img src='json/p/6.jpg'>
-                                   <br><br>
-                                   <img src='json/p/7.jpg'>
-                                   <br><br>
-                                   <img src='json/p/8.jpg'>
-                                   <br><br>
-                                   <img src='json/p/9.jpg'>
-                                   <br><br>
-                                   <img src='json/p/10.jpg'>
-                                   <br><br>
-					<h1 class='nymZag'>И забрал посылку.</h1>
-
-
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "quoter": {
-                                    "visible": false,
-                                    "text": ""
-                                }
-                            },
-                            {
-                                "type": "gif",
-                                "align": "left",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            },
-                            {
-                                "type": "gif",
-                                "align": "right",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            }
-                        ]          
-                    },
-                    "jacob": {
-                        "lut": "jacob",
-                        "name": {
-                            "text": "",
-                            "css": [
-                                {
-                                    "property": "font-size",
-                                    "value": false
-                                }
-                            ]
-                        },
-                        "nodes": [
-                            {
-                                "type": "poster",
-                                "visible": true,
-                                "name": {
-                                    "visible": true,
-                                    "first": "Янис",
-                                    "last": "",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "role": {
-                                    "visible": true,
-                                    "text": "
-                                                               
-                                   
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-
-                                },
-                                
-                                
-                                "poster": {
-                                    "visible": true,
-                                    "full_size": "linda",
-                                    "url": "assets/characters/benoit/poster.png"
-                                },
-                                "icon": {
-                                    "visible": true,
-                                    "url": "assets/characters/1.png"
-                                }
-                            },
-                            
-                            
-                            
-                            
-                            {
-                                "type": "quote",
-                                "visible": true,
-                                "quote": {
-                                    "visible": true,
-                                    "text": "
-
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
-                                    <br><br>
-
-                                   <img src='json/n/111.png'>
-                                   <img src='json/n/222.png'>
-                                   <img src='json/n/3333.png'>
-                                   <img src='json/n/333.png'>
-                                   <img src='json/n/444.png'>
-                                   <img src='json/n/555.png'>
-                                   <img src='json/n/666.png'>
-                                   <img src='json/n/777.png'>
-                                   <img src='json/n/13.png'>   
-                                   <img src='json/n/d0.png'>
-                                   <img src='json/n/d01.png'>
-                                   <img src='json/n/d001.png'>
-                                   <img src='json/n/d1.png'>
-                                   <img src='json/n/11.png'>
-                                   <img src='json/n/55.png'>
-                                   <img src='json/n/12.png'>
-                                   <img src='json/n/22.png'>
-                                   <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
-
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
-                                   <br><br>
-                                   <img src='json/p/1.jpg'>
-                                   <br><br>
-                                   <img src='json/p/2.jpg'>
-                                   <br><br>
-                                   <img src='json/p/3.jpg'>
-                                   <br><br>
-                                   <img src='json/p/4.jpg'>
-                                   <br><br>
-                                   <img src='json/p/5.jpg'>
-                                   <br><br>
-                                   <img src='json/p/6.jpg'>
-                                   <br><br>
-                                   <img src='json/p/7.jpg'>
-                                   <br><br>
-                                   <img src='json/p/8.jpg'>
-                                   <br><br>
-                                   <img src='json/p/9.jpg'>
-                                   <br><br>
-                                   <img src='json/p/10.jpg'>
-                                   <br><br>
-    					<h1 class='nymZag'>И забрал посылку.</h1>
-
-
-
-                                    ",
-                                    "css": [
-                                        {
-                                            "property": "font-size",
-                                            "value": false
-                                        }
-                                    ]
-                                },
-                                "quoter": {
-                                    "visible": false,
-                                    "text": ""
-                                }
-                            },
-                            {
-                                "type": "gif",
-                                "align": "left",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            },
-                            {
-                                "type": "gif",
-                                "align": "right",
-                                "visible": false,
-                                "vid": "",
-                                "gif": ""
-                            }
-                        ]         
-                    },
-                    "nana": {
-                        "lut": "harlan_nana",
                         "name": {
                             "text": "",
                             "css": [
@@ -3242,8 +2726,8 @@
                                     "visible": true,
                                     "text": "
 
-                                    <h1 class='nymZag'>Один из этих людей:</h1>
-                                    
+ <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
                                     <br><br>
 
                                    <img src='json/n/111.png'>
@@ -3264,9 +2748,20 @@
                                    <img src='json/n/12.png'>
                                    <img src='json/n/22.png'>
                                    <img src='json/n/44.png'>
-                                   <br><br>                                   <br><br>
+                                   <br><br>
+				    <br><br>
 
-                                   <h1 class='nymZag'>Заказал такую куклу:</h1>
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
                                    <br><br>
                                    <img src='json/p/1.jpg'>
                                    <br><br>
@@ -3287,9 +2782,635 @@
                                    <img src='json/p/9.jpg'>
                                    <br><br>
                                    <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Петерис.</h1>
+					
+					
+				<br><br>
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "quoter": {
+                                    "visible": false,
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "type": "gif",
+                                "align": "left",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            },
+                            {
+                                "type": "gif",
+                                "align": "right",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            }
+                        ]        
+                    },
+                    "meg": {
+                        "lut": "meg",
+                        "name": {
+                            "text": "",
+                            "css": [
+                                {
+                                    "property": "font-size",
+                                    "value": false
+                                }
+                            ]
+                        },
+                        "nodes": [
+                            {
+                                "type": "poster",
+                                "visible": true,
+                                "name": {
+                                    "visible": true,
+                                    "first": "Янис",
+                                    "last": "",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "role": {
+                                    "visible": true,
+                                    "text": "
+                                                               
+                                   
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+
+                                },
+                                
+                                
+                                "poster": {
+                                    "visible": true,
+                                    "full_size": "linda",
+                                    "url": "assets/characters/benoit/poster.png"
+                                },
+                                "icon": {
+                                    "visible": true,
+                                    "url": "assets/characters/1.png"
+                                }
+                            },
+                            
+                            
+                            
+                            
+                            {
+                                "type": "quote",
+                                "visible": true,
+                                "quote": {
+                                    "visible": true,
+                                    "text": "
+
+     <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
+                                    <br><br>
+
+                                   <img src='json/n/111.png'>
+                                   <img src='json/n/222.png'>
+                                   <img src='json/n/3333.png'>
+                                   <img src='json/n/333.png'>
+                                   <img src='json/n/444.png'>
+                                   <img src='json/n/555.png'>
+                                   <img src='json/n/666.png'>
+                                   <img src='json/n/777.png'>
+                                   <img src='json/n/13.png'>   
+                                   <img src='json/n/d0.png'>
+                                   <img src='json/n/d01.png'>
+                                   <img src='json/n/d001.png'>
+                                   <img src='json/n/d1.png'>
+                                   <img src='json/n/11.png'>
+                                   <img src='json/n/55.png'>
+                                   <img src='json/n/12.png'>
+                                   <img src='json/n/22.png'>
+                                   <img src='json/n/44.png'>
                                    <br><br>
- 
-    					<h1 class='nymZag'>И забрал посылку.</h1>
+				    <br><br>
+
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
+                                   <br><br>
+                                   <img src='json/p/1.jpg'>
+                                   <br><br>
+                                   <img src='json/p/2.jpg'>
+                                   <br><br>
+                                   <img src='json/p/3.jpg'>
+                                   <br><br>
+                                   <img src='json/p/4.jpg'>
+                                   <br><br>
+                                   <img src='json/p/5.jpg'>
+                                   <br><br>
+                                   <img src='json/p/6.jpg'>
+                                   <br><br>
+                                   <img src='json/p/7.jpg'>
+                                   <br><br>
+                                   <img src='json/p/8.jpg'>
+                                   <br><br>
+                                   <img src='json/p/9.jpg'>
+                                   <br><br>
+                                   <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Янис.</h1>
+					
+					
+				<br><br>
+
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "quoter": {
+                                    "visible": false,
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "type": "gif",
+                                "align": "left",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            },
+                            {
+                                "type": "gif",
+                                "align": "right",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            }
+                        ]           
+                    },
+
+
+                    "donna": {
+                        "lut": "walt_donna",
+                        "name": {
+                            "text": "",
+                            "css": [
+                                {
+                                    "property": "font-size",
+                                    "value": false
+                                }
+                            ]
+                        },
+                        "nodes": [
+                            {
+                                "type": "poster",
+                                "visible": true,
+                                "name": {
+                                    "visible": true,
+                                    "first": "Вадим",
+                                    "last": "",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "role": {
+                                    "visible": true,
+                                    "text": "
+                                                               
+                                   
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+
+                                },
+                                
+                                
+                                "poster": {
+                                    "visible": true,
+                                    "full_size": "linda",
+                                    "url": "assets/characters/benoit/poster.png"
+                                },
+                                "icon": {
+                                    "visible": true,
+                                    "url": "assets/characters/1.png"
+                                }
+                            },
+                            
+                            
+                            
+                            
+                            {
+                                "type": "quote",
+                                "visible": true,
+                                "quote": {
+                                    "visible": true,
+                                    "text": "
+
+ <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
+                                    <br><br>
+
+                                   <img src='json/n/111.png'>
+                                   <img src='json/n/222.png'>
+                                   <img src='json/n/3333.png'>
+                                   <img src='json/n/333.png'>
+                                   <img src='json/n/444.png'>
+                                   <img src='json/n/555.png'>
+                                   <img src='json/n/666.png'>
+                                   <img src='json/n/777.png'>
+                                   <img src='json/n/13.png'>   
+                                   <img src='json/n/d0.png'>
+                                   <img src='json/n/d01.png'>
+                                   <img src='json/n/d001.png'>
+                                   <img src='json/n/d1.png'>
+                                   <img src='json/n/11.png'>
+                                   <img src='json/n/55.png'>
+                                   <img src='json/n/12.png'>
+                                   <img src='json/n/22.png'>
+                                   <img src='json/n/44.png'>
+                                   <br><br>
+				    <br><br>
+
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
+                                   <br><br>
+                                   <img src='json/p/1.jpg'>
+                                   <br><br>
+                                   <img src='json/p/2.jpg'>
+                                   <br><br>
+                                   <img src='json/p/3.jpg'>
+                                   <br><br>
+                                   <img src='json/p/4.jpg'>
+                                   <br><br>
+                                   <img src='json/p/5.jpg'>
+                                   <br><br>
+                                   <img src='json/p/6.jpg'>
+                                   <br><br>
+                                   <img src='json/p/7.jpg'>
+                                   <br><br>
+                                   <img src='json/p/8.jpg'>
+                                   <br><br>
+                                   <img src='json/p/9.jpg'>
+                                   <br><br>
+                                   <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Вадим.</h1>
+					
+					
+				<br><br>
+
+
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "quoter": {
+                                    "visible": false,
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "type": "gif",
+                                "align": "left",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            },
+                            {
+                                "type": "gif",
+                                "align": "right",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            }
+                        ]          
+                    },
+                    "jacob": {
+                        "lut": "jacob",
+                        "name": {
+                            "text": "",
+                            "css": [
+                                {
+                                    "property": "font-size",
+                                    "value": false
+                                }
+                            ]
+                        },
+                        "nodes": [
+                            {
+                                "type": "poster",
+                                "visible": true,
+                                "name": {
+                                    "visible": true,
+                                    "first": "Сергей",
+                                    "last": "",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "role": {
+                                    "visible": true,
+                                    "text": "
+                                                               
+                                   
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+
+                                },
+                                
+                                
+                                "poster": {
+                                    "visible": true,
+                                    "full_size": "linda",
+                                    "url": "assets/characters/benoit/poster.png"
+                                },
+                                "icon": {
+                                    "visible": true,
+                                    "url": "assets/characters/1.png"
+                                }
+                            },
+                            
+                            
+                            
+                            
+                            {
+                                "type": "quote",
+                                "visible": true,
+                                "quote": {
+                                    "visible": true,
+                                    "text": "
+
+  <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
+                                    <br><br>
+
+                                   <img src='json/n/111.png'>
+                                   <img src='json/n/222.png'>
+                                   <img src='json/n/3333.png'>
+                                   <img src='json/n/333.png'>
+                                   <img src='json/n/444.png'>
+                                   <img src='json/n/555.png'>
+                                   <img src='json/n/666.png'>
+                                   <img src='json/n/777.png'>
+                                   <img src='json/n/13.png'>   
+                                   <img src='json/n/d0.png'>
+                                   <img src='json/n/d01.png'>
+                                   <img src='json/n/d001.png'>
+                                   <img src='json/n/d1.png'>
+                                   <img src='json/n/11.png'>
+                                   <img src='json/n/55.png'>
+                                   <img src='json/n/12.png'>
+                                   <img src='json/n/22.png'>
+                                   <img src='json/n/44.png'>
+                                   <br><br>
+				    <br><br>
+
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
+                                   <br><br>
+                                   <img src='json/p/1.jpg'>
+                                   <br><br>
+                                   <img src='json/p/2.jpg'>
+                                   <br><br>
+                                   <img src='json/p/3.jpg'>
+                                   <br><br>
+                                   <img src='json/p/4.jpg'>
+                                   <br><br>
+                                   <img src='json/p/5.jpg'>
+                                   <br><br>
+                                   <img src='json/p/6.jpg'>
+                                   <br><br>
+                                   <img src='json/p/7.jpg'>
+                                   <br><br>
+                                   <img src='json/p/8.jpg'>
+                                   <br><br>
+                                   <img src='json/p/9.jpg'>
+                                   <br><br>
+                                   <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Сергей.</h1>
+					
+					
+				<br><br>
+
+
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "quoter": {
+                                    "visible": false,
+                                    "text": ""
+                                }
+                            },
+                            {
+                                "type": "gif",
+                                "align": "left",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            },
+                            {
+                                "type": "gif",
+                                "align": "right",
+                                "visible": false,
+                                "vid": "",
+                                "gif": ""
+                            }
+                        ]         
+                    },
+                    "nana": {
+                        "lut": "harlan_nana",
+                        "name": {
+                            "text": "",
+                            "css": [
+                                {
+                                    "property": "font-size",
+                                    "value": false
+                                }
+                            ]
+                        },
+                        "nodes": [
+                            {
+                                "type": "poster",
+                                "visible": true,
+                                "name": {
+                                    "visible": true,
+                                    "first": "Олег",
+                                    "last": "",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+                                },
+                                "role": {
+                                    "visible": true,
+                                    "text": "
+                                                               
+                                   
+                                    ",
+                                    "css": [
+                                        {
+                                            "property": "font-size",
+                                            "value": false
+                                        }
+                                    ]
+
+                                },
+                                
+                                
+                                "poster": {
+                                    "visible": true,
+                                    "full_size": "linda",
+                                    "url": "assets/characters/benoit/poster.png"
+                                },
+                                "icon": {
+                                    "visible": true,
+                                    "url": "assets/characters/1.png"
+                                }
+                            },
+                            
+                            
+                            
+                            
+                            {
+                                "type": "quote",
+                                "visible": true,
+                                "quote": {
+                                    "visible": true,
+                                    "text": "
+
+ <h1 class='nymZag'>Посетителей этого форума, технически невозможно отследить</h1>
+
+                                    <br><br>
+
+                                   <img src='json/n/111.png'>
+                                   <img src='json/n/222.png'>
+                                   <img src='json/n/3333.png'>
+                                   <img src='json/n/333.png'>
+                                   <img src='json/n/444.png'>
+                                   <img src='json/n/555.png'>
+                                   <img src='json/n/666.png'>
+                                   <img src='json/n/777.png'>
+                                   <img src='json/n/13.png'>   
+                                   <img src='json/n/d0.png'>
+                                   <img src='json/n/d01.png'>
+                                   <img src='json/n/d001.png'>
+                                   <img src='json/n/d1.png'>
+                                   <img src='json/n/11.png'>
+                                   <img src='json/n/55.png'>
+                                   <img src='json/n/12.png'>
+                                   <img src='json/n/22.png'>
+                                   <img src='json/n/44.png'>
+                                   <br><br>
+				    <br><br>
+
+                                   <h1 class='nymZag'>
+					Мы открыли магазин секс кукол. 
+				</h1>
+					br><br>
+				 <h1 class='nymZag'>
+					О нём знали только некоторые участники этого форума.
+					</h1>
+					<br><br>
+									   
+				   <h1 class='nymZag'>Кто-то заказал эту куклу:</h1>
+					<br><br>
+                                   <br><br>
+                                   <img src='json/p/1.jpg'>
+                                   <br><br>
+                                   <img src='json/p/2.jpg'>
+                                   <br><br>
+                                   <img src='json/p/3.jpg'>
+                                   <br><br>
+                                   <img src='json/p/4.jpg'>
+                                   <br><br>
+                                   <img src='json/p/5.jpg'>
+                                   <br><br>
+                                   <img src='json/p/6.jpg'>
+                                   <br><br>
+                                   <img src='json/p/7.jpg'>
+                                   <br><br>
+                                   <img src='json/p/8.jpg'>
+                                   <br><br>
+                                   <img src='json/p/9.jpg'>
+                                   <br><br>
+                                   <img src='json/p/10.jpg'>
+                                    <br><br>
+					<br><br>
+				<h1 class='nymZag'>Забрал посылку Олег.</h1>
+					
+					
+				<br><br>
 
 
                                     ",
