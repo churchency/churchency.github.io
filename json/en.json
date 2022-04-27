@@ -3379,7 +3379,7 @@
                     "cta": {
                         "visible": true,
                         "text": "Text 'Whodunnit' to 94200",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "css": [
                             {
                                 "property": "font-size",
@@ -3439,7 +3439,7 @@
                 },
                 "body": {
                     "visible": true,
-                    "text": "Acclaimed writer and director Rian Johnson (<i>Brick, Looper, The Last Jedi</i>) pays tribute to mystery mastermind Agatha Christie in <i>KNIVES OUT</i>, a fun, modern-day murder mystery where everyone is a suspect. When renowned crime novelist Harlan Thrombey (Christopher Plummer) is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc (Daniel Craig) is mysteriously enlisted to investigate. From Harlan’s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan’s untimely death. With an all-star ensemble cast including Chris Evans, Ana De Armas, Jamie Lee Curtis, Don Johnson, Michael Shannon, Toni Collette, LaKeith Stanfield, Katherine Langford and Jaeden Martell, <i>KNIVES OUT</i> is a witty and stylish whodunit guaranteed to keep audiences guessing until the very end.",
+                    "text": " ",
                     "css": [
                         {
                             "property": "font-size",
@@ -3798,7 +3798,7 @@
                     {
                         "visible": false,
                         "label": "Churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "css": [
                             {
                                 "property": "font-size",
@@ -3809,7 +3809,7 @@
                     {
                         "visible": false,
                         "label": "Churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "css": [
                             {
                                 "property": "font-size",
@@ -3870,7 +3870,7 @@
                     {
                         "visible": true,
                         "label": "churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "css": [
                             {
                                 "property": "font-size",
@@ -3881,7 +3881,7 @@
                     {
                         "visible": true,
                         "label": "churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "css": [
                             {
                                 "property": "font-size",
@@ -3891,7 +3891,7 @@
                     },
                     {
                         "label": "churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "visible": true,
                         "css": [
                             {
@@ -3902,7 +3902,7 @@
                     },
                     {
                         "label": "churchency",
-                        "url": "https://www.awwwards.com/",
+                        "url": "https://www.churchency.github.io/",
                         "visible": true,
                         "css": [
                             {
