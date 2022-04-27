@@ -412,6 +412,15 @@ template {
   font-family: steppe; /* Гарнитура шрифта */
   src: url(Steppe.ttf); /* Путь к файлу со шрифтом */
 }
+   
+@font-face {
+  font-family: qwe; /* Гарнитура шрифта */
+  src: url(1234.ttf); /* Путь к файлу со шрифтом */
+} 
+#home h2 {
+   font-family: qwe;
+   }
+   
 
 #yslugiBeginer {
   font-family: steppe;
