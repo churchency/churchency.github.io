@@ -1181,7 +1181,7 @@
                     "harlan": {
                         "lut": "harlan_nana",
                         "name": {
-                            "text": "",
+                            "text": "сказка",
                             "css": [
                                 {
                                     "property": "font-size",
@@ -1195,7 +1195,7 @@
                                 "visible": true,
                                 "name": {
                                     "visible": true,
-                                    "first": "",
+                                    "first": "сказка",
                                     "last": "",
                                     "css": [
                                         {
